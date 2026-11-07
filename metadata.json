@@ -1,0 +1,6 @@
+{
+  "name": "Nexora - Modern Enterprise SaaS Platform",
+  "description": "Nexora is a next-generation SaaS platform providing real-time revenue analytics, automated pipeline workflows, team workspace intelligence, and seamless developer integrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
