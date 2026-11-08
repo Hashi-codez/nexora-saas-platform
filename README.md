@@ -125,7 +125,8 @@ npm test # or npx tsx --test src/utils/*.test.ts
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to explore Nexora.
+Open [https://nexora-saas-platform-gamma.vercel.app]
+(https://nexora-saas-platform-gamma.vercel.app) in your browser to explore Nexora.
 
 ---
 
